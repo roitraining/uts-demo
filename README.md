@@ -1,4 +1,4 @@
-# Universal Translation SErvice (UTS)Demo
+# Universal Translation Service (UTS) Demo
 
 ## Overview
 This demo is intended to show the "magic" you can achieve using GCP's ML APIs.
